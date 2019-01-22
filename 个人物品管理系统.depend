@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1491669398 source:d:\codeblocks\验证\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<mmsystem.h>
+	"verify.c"
+	"rfile.c"
+	"save.c"
+	"update.c"
+	"delete.c"
+	"find.c"
+	"excel.c"
+
+1491653554 d:\codeblocks\验证\verify.c
+
+1491653619 d:\codeblocks\验证\rfile.c
+
+1491653888 d:\codeblocks\验证\save.c
+
+1491668715 d:\codeblocks\验证\update.c
+
+1491668786 d:\codeblocks\验证\delete.c
+
+1491671358 d:\codeblocks\验证\find.c
+
+1491668929 d:\codeblocks\验证\excel.c
+
+1491888095 source:d:\codeblocks\验证\bin\debug\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<mmsystem.h>
+	"verify.c"
+	"rfile.c"
+	"save.c"
+	"update.c"
+	"delete.c"
+	"find.c"
+	"statistics.c"
+	"excel.c"
+
+1491878683 d:\codeblocks\验证\bin\debug\verify.c
+
+1491653619 d:\codeblocks\验证\bin\debug\rfile.c
+
+1491653888 d:\codeblocks\验证\bin\debug\save.c
+
+1491668715 d:\codeblocks\验证\bin\debug\update.c
+
+1491668786 d:\codeblocks\验证\bin\debug\delete.c
+
+1491878219 d:\codeblocks\验证\bin\debug\find.c
+
+1491878232 d:\codeblocks\验证\bin\debug\statistics.c
+
+1491668929 d:\codeblocks\验证\bin\debug\excel.c
+
+1491888095 source:e:\华农\c语言\课程设计\201625010417林晓乙\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<mmsystem.h>
+	"verify.c"
+	"rfile.c"
+	"save.c"
+	"update.c"
+	"delete.c"
+	"find.c"
+	"statistics.c"
+	"excel.c"
+
+1491878683 e:\华农\c语言\课程设计\201625010417林晓乙\verify.c
+
+1491653619 e:\华农\c语言\课程设计\201625010417林晓乙\rfile.c
+
+1491653888 e:\华农\c语言\课程设计\201625010417林晓乙\save.c
+
+1491668715 e:\华农\c语言\课程设计\201625010417林晓乙\update.c
+
+1491668786 e:\华农\c语言\课程设计\201625010417林晓乙\delete.c
+
+1491878219 e:\华农\c语言\课程设计\201625010417林晓乙\find.c
+
+1491878232 e:\华农\c语言\课程设计\201625010417林晓乙\statistics.c
+
+1492151035 e:\华农\c语言\课程设计\201625010417林晓乙\excel.c
+
